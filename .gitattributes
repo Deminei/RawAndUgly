@@ -2,3 +2,4 @@ claude filter=lfs diff=lfs merge=lfs -text
 claude-2.1.161-linux-arm64 filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 claude-2.1.161-darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+downloads/claude-* filter=lfs diff=lfs merge=lfs -text
